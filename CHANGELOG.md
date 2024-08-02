@@ -1,5 +1,13 @@
 # Changelog
 
+## 1.0.1-alpha (2024-08-02)
+
+## What's Changed
+* Fix PHAR building by @roxblnfk in https://github.com/php-internal/dload/pull/16
+
+
+**Full Changelog**: https://github.com/php-internal/dload/compare/1.0.0-alpha...1.0.1-alpha
+
 ## 1.0.0-alpha (2024-07-20)
 
 ## What's Changed
